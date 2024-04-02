@@ -64,7 +64,7 @@ General Informations:
 - If you find any malfunction, contact me on [Discord](https://discord.gg/ariacc).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/1224624672285524048/1224625187669020742/image.png?ex=661e2c15&is=660bb715&hm=9977afa477c9800d2ad58e252debce8eb968ab165c31fa9f6a53be2e2fcb4785&)
+![home.png](https://cdn.discordapp.com/attachments/1224624672285524048/1224625187949903872/image.png?ex=661e2c15&is=660bb715&hm=7a2638fb2a5d84a8b0eedad86190302385c6b3164a5f23dfc1dcfed80afe8cc2&)
 
 ## Errors/Fixes
 
