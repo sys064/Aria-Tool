@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  [Discord] - Aria tool is a Script Gathering for Windows/Linux systems written in Python.
+  Aria tool is a Script Gathering for Windows/Linux systems written in Python.
 </p>
 
 ## Features
