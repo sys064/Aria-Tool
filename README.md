@@ -1,6 +1,5 @@
-![image](https://github.com/Tap1337/Aria-Tool/assets/88997739/738c7a72-051d-43d8-b836-8c39b75ceeab)<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1210581402718838784/1224630869470347324/image.png?ex=661e315f&is=660bbc5f&hm=e5b0da4ae5663ac980874c01ee4db480ac30e5162e4738651496aba4f4c8b5ee&">
-</p>
+![image](https://github.com/Tap1337/Aria-Tool/assets/88997739/738c7a72-051d-43d8-b836-8c39b75ceeab) align="center">
+
 
 <h1 align="center">Aria Tool</h1>
 <p align="center">
